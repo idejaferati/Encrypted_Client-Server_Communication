@@ -1,0 +1,62 @@
+C:\Users\USER\Desktop\projekti\Server\Server\bin\Debug\Server.exe.config
+C:\Users\USER\Desktop\projekti\Server\Server\bin\Debug\Server.exe
+C:\Users\USER\Desktop\projekti\Server\Server\bin\Debug\Server.pdb
+C:\Users\USER\Desktop\projekti\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\projekti\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\USER\Desktop\projekti\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\USER\Desktop\projekti\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\projekti\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\projekti\Server\Server\obj\Debug\Server.exe
+C:\Users\USER\Desktop\projekti\Server\Server\obj\Debug\Server.pdb
+C:\Users\lenovo\Desktop\projekti\Server\Server\bin\Debug\Server.exe.config
+C:\Users\lenovo\Desktop\projekti\Server\Server\bin\Debug\Server.exe
+C:\Users\lenovo\Desktop\projekti\Server\Server\bin\Debug\Server.pdb
+C:\Users\lenovo\Desktop\projekti\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\projekti\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\lenovo\Desktop\projekti\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\lenovo\Desktop\projekti\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\projekti\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\projekti\Server\Server\obj\Debug\Server.exe
+C:\Users\lenovo\Desktop\projekti\Server\Server\obj\Debug\Server.pdb
+C:\Users\USER\Desktop\Fundit\projekti\Server\Server\bin\Debug\Server.exe.config
+C:\Users\USER\Desktop\Fundit\projekti\Server\Server\bin\Debug\Server.exe
+C:\Users\USER\Desktop\Fundit\projekti\Server\Server\bin\Debug\Server.pdb
+C:\Users\USER\Desktop\Fundit\projekti\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Fundit\projekti\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\USER\Desktop\Fundit\projekti\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\USER\Desktop\Fundit\projekti\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Fundit\projekti\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Fundit\projekti\Server\Server\obj\Debug\Server.exe
+C:\Users\USER\Desktop\Fundit\projekti\Server\Server\obj\Debug\Server.pdb
+C:\Users\festi\Desktop\Fundit (1)\Fundit\projekti\Server\Server\bin\Debug\Server.exe.config
+C:\Users\festi\Desktop\Fundit (1)\Fundit\projekti\Server\Server\bin\Debug\Server.exe
+C:\Users\festi\Desktop\Fundit (1)\Fundit\projekti\Server\Server\bin\Debug\Server.pdb
+C:\Users\festi\Desktop\Fundit (1)\Fundit\projekti\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\festi\Desktop\Fundit (1)\Fundit\projekti\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\festi\Desktop\Fundit (1)\Fundit\projekti\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\festi\Desktop\Fundit (1)\Fundit\projekti\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\festi\Desktop\Fundit (1)\Fundit\projekti\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\festi\Desktop\Fundit (1)\Fundit\projekti\Server\Server\obj\Debug\Server.exe
+C:\Users\festi\Desktop\Fundit (1)\Fundit\projekti\Server\Server\obj\Debug\Server.pdb
+C:\Users\Toni PC\Desktop\IDEJA-CERT\X509\FUNDI OKEJ\Fundit\projekti\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Toni PC\Desktop\IDEJA-CERT\X509\FUNDI OKEJ\Fundit\projekti\Server\Server\bin\Debug\Server.exe
+C:\Users\Toni PC\Desktop\IDEJA-CERT\X509\FUNDI OKEJ\Fundit\projekti\Server\Server\bin\Debug\Server.pdb
+C:\Users\Toni PC\Desktop\IDEJA-CERT\X509\FUNDI OKEJ\Fundit\projekti\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Toni PC\Desktop\IDEJA-CERT\X509\FUNDI OKEJ\Fundit\projekti\Server\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Toni PC\Desktop\IDEJA-CERT\X509\FUNDI OKEJ\Fundit\projekti\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\Toni PC\Desktop\IDEJA-CERT\X509\FUNDI OKEJ\Fundit\projekti\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Toni PC\Desktop\IDEJA-CERT\X509\FUNDI OKEJ\Fundit\projekti\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Toni PC\Desktop\IDEJA-CERT\X509\FUNDI OKEJ\Fundit\projekti\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Toni PC\Desktop\IDEJA-CERT\X509\FUNDI OKEJ\Fundit\projekti\Server\Server\obj\Debug\Server.exe
+C:\Users\Toni PC\Desktop\IDEJA-CERT\X509\FUNDI OKEJ\Fundit\projekti\Server\Server\obj\Debug\Server.pdb
+C:\Users\Natyra\Desktop\projekti\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Natyra\Desktop\projekti\Server\Server\bin\Debug\Server.exe
+C:\Users\Natyra\Desktop\projekti\Server\Server\bin\Debug\Server.pdb
+C:\Users\Natyra\Desktop\projekti\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Natyra\Desktop\projekti\Server\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Natyra\Desktop\projekti\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\Natyra\Desktop\projekti\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Natyra\Desktop\projekti\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Natyra\Desktop\projekti\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Natyra\Desktop\projekti\Server\Server\obj\Debug\Server.exe
+C:\Users\Natyra\Desktop\projekti\Server\Server\obj\Debug\Server.pdb

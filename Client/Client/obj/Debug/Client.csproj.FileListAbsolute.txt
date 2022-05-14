@@ -1,0 +1,65 @@
+c:\users\lenovo\Source\Repos\Client\Client\bin\Debug\Client.exe.config
+c:\users\lenovo\Source\Repos\Client\Client\bin\Debug\Client.exe
+c:\users\lenovo\Source\Repos\Client\Client\bin\Debug\Client.pdb
+c:\users\lenovo\Source\Repos\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\users\lenovo\Source\Repos\Client\Client\obj\Debug\Client.Form1.resources
+c:\users\lenovo\Source\Repos\Client\Client\obj\Debug\Client.Properties.Resources.resources
+c:\users\lenovo\Source\Repos\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+c:\users\lenovo\Source\Repos\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+c:\users\lenovo\Source\Repos\Client\Client\obj\Debug\Client.exe
+c:\users\lenovo\Source\Repos\Client\Client\obj\Debug\Client.pdb
+C:\Users\USER\Desktop\projekti\Client\Client\bin\Debug\Client.exe.config
+C:\Users\USER\Desktop\projekti\Client\Client\bin\Debug\Client.exe
+C:\Users\USER\Desktop\projekti\Client\Client\bin\Debug\Client.pdb
+C:\Users\USER\Desktop\projekti\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\projekti\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\USER\Desktop\projekti\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\USER\Desktop\projekti\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\projekti\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\projekti\Client\Client\obj\Debug\Client.exe
+C:\Users\USER\Desktop\projekti\Client\Client\obj\Debug\Client.pdb
+C:\Users\lenovo\Desktop\projekti\Client\Client\bin\Debug\Client.exe.config
+C:\Users\lenovo\Desktop\projekti\Client\Client\bin\Debug\Client.exe
+C:\Users\lenovo\Desktop\projekti\Client\Client\bin\Debug\Client.pdb
+C:\Users\lenovo\Desktop\projekti\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\projekti\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\lenovo\Desktop\projekti\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\lenovo\Desktop\projekti\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\projekti\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\projekti\Client\Client\obj\Debug\Client.exe
+C:\Users\lenovo\Desktop\projekti\Client\Client\obj\Debug\Client.pdb
+C:\Users\USER\Desktop\Fundit\projekti\Client\Client\bin\Debug\Client.exe.config
+C:\Users\USER\Desktop\Fundit\projekti\Client\Client\bin\Debug\Client.exe
+C:\Users\USER\Desktop\Fundit\projekti\Client\Client\bin\Debug\Client.pdb
+C:\Users\USER\Desktop\Fundit\projekti\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Fundit\projekti\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\USER\Desktop\Fundit\projekti\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\USER\Desktop\Fundit\projekti\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Fundit\projekti\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Fundit\projekti\Client\Client\obj\Debug\Client.exe
+C:\Users\USER\Desktop\Fundit\projekti\Client\Client\obj\Debug\Client.pdb
+C:\Users\festi\Desktop\Fundit (1)\Fundit\projekti\Client\Client\bin\Debug\Client.exe.config
+C:\Users\festi\Desktop\Fundit (1)\Fundit\projekti\Client\Client\bin\Debug\Client.exe
+C:\Users\festi\Desktop\Fundit (1)\Fundit\projekti\Client\Client\bin\Debug\Client.pdb
+C:\Users\festi\Desktop\Fundit (1)\Fundit\projekti\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\festi\Desktop\Fundit (1)\Fundit\projekti\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\festi\Desktop\Fundit (1)\Fundit\projekti\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\festi\Desktop\Fundit (1)\Fundit\projekti\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\festi\Desktop\Fundit (1)\Fundit\projekti\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\festi\Desktop\Fundit (1)\Fundit\projekti\Client\Client\obj\Debug\Client.exe
+C:\Users\festi\Desktop\Fundit (1)\Fundit\projekti\Client\Client\obj\Debug\Client.pdb
+C:\Users\Natyra\Desktop\VITI 2-FIEK\natyra viti2\viti 2\siguria e te dhenave\projekt\FUNDI OKEJ\Fundit\projekti\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Natyra\Desktop\VITI 2-FIEK\natyra viti2\viti 2\siguria e te dhenave\projekt\FUNDI OKEJ\Fundit\projekti\Client\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Natyra\Desktop\VITI 2-FIEK\natyra viti2\viti 2\siguria e te dhenave\projekt\FUNDI OKEJ\Fundit\projekti\Client\Client\obj\Debug\Client.exe
+C:\Users\Natyra\Desktop\VITI 2-FIEK\natyra viti2\viti 2\siguria e te dhenave\projekt\FUNDI OKEJ\Fundit\projekti\Client\Client\obj\Debug\Client.pdb
+C:\Users\Toni PC\Desktop\IDEJA-CERT\X509\FUNDI OKEJ\Fundit\projekti\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Toni PC\Desktop\IDEJA-CERT\X509\FUNDI OKEJ\Fundit\projekti\Client\Client\bin\Debug\Client.exe
+C:\Users\Toni PC\Desktop\IDEJA-CERT\X509\FUNDI OKEJ\Fundit\projekti\Client\Client\bin\Debug\Client.pdb
+C:\Users\Toni PC\Desktop\IDEJA-CERT\X509\FUNDI OKEJ\Fundit\projekti\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Toni PC\Desktop\IDEJA-CERT\X509\FUNDI OKEJ\Fundit\projekti\Client\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Toni PC\Desktop\IDEJA-CERT\X509\FUNDI OKEJ\Fundit\projekti\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\Toni PC\Desktop\IDEJA-CERT\X509\FUNDI OKEJ\Fundit\projekti\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Toni PC\Desktop\IDEJA-CERT\X509\FUNDI OKEJ\Fundit\projekti\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Toni PC\Desktop\IDEJA-CERT\X509\FUNDI OKEJ\Fundit\projekti\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Toni PC\Desktop\IDEJA-CERT\X509\FUNDI OKEJ\Fundit\projekti\Client\Client\obj\Debug\Client.exe
+C:\Users\Toni PC\Desktop\IDEJA-CERT\X509\FUNDI OKEJ\Fundit\projekti\Client\Client\obj\Debug\Client.pdb
