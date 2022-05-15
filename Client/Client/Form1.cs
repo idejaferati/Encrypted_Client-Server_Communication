@@ -23,8 +23,6 @@ namespace Client
 
         private bool verifikimi;
         private const string hostName = "localhost";
-        readonly string pergjigjaEnkriptuar = "";
-        readonly string kerkesaEnkriptuar = string.Empty;
         private byte[] bytesNenshkrimi;
         private string[] varguKerkeseNenshkrim;
         private byte[] pergjigjaServeri;
@@ -87,7 +85,7 @@ namespace Client
             else
             {
                 //Ja jepim tekstin e dekriptuar 
-                txtPergjigjaEnkriptuar.Text = text;           // NDRYSHUAR
+                txtPergjigjaEnkriptuar.Text = text;
             }
         }
 
@@ -202,7 +200,6 @@ namespace Client
                     try
                     {
                         // Ja japim celesin publik per me bo verifikimin
-                        //CreateKeys();
                         objRsaClient.FromXmlString(strPrivateParameteres);
                     }
                     catch(Exception ex)
@@ -223,7 +220,6 @@ namespace Client
 
         private void btnDergo_Click(object sender, EventArgs e)
         {
-            //byte[] tekstKerkesa = Encoding.ASCII.GetBytes(txtKerkesaEnkriptuar.Text);
             var kerkesa = txtKerkesaEnkriptuar.Text + "#" + System.Convert.ToBase64String(bytesNenshkrimi);
 
             byte[] dergesa = Encoding.ASCII.GetBytes(kerkesa);
@@ -264,13 +260,6 @@ namespace Client
             {
                 MessageBox.Show("Kjo certificate nuk ka private key.");
             }
-            
-
-            //per celes publik(parametri false tregon qe vetem publickey)
-            /*String strPublicParamters = privateKeyProvider.ToXmlString(false);
-            StreamWriter sw = new StreamWriter("C://XmlFaturat/clientP.xml");
-            sw.Write(strPublicParamters);
-            sw.Close();*/
         }
 
     }

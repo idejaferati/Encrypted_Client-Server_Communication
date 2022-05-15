@@ -11,8 +11,6 @@ namespace Server
 {
     public partial class Form1 : Form
     {
-
-
         //delegate that allows method ....(setText) to be called in the thread that creates and maintaines the GUI
         //delegate is a function that can be attached and executed in a thread other than the main thread
         delegate void SetTextCallback(string text);
@@ -20,16 +18,11 @@ namespace Server
         private TcpClient client;
         //The NetworkStream class provides methods for sending and receiving data over Stream sockets in blocking mode
         private NetworkStream ns;
-        private string kerkesa = "";
         private Thread t = null;
         private bool verifikimi;
-        private string kerkesaEnkriptuarKlientit;
-        readonly string response = " ";
         private byte[] bytesNenshkrimi;
         private byte[] kerkesaKlienti;
         private byte[] nenshkrimi;
-        private string pergjigja = "";
-        private string pergjigjaEnkriptuar = "";
 
         private string konvertimi = "";
         private RSACryptoServiceProvider objRsaClient = new RSACryptoServiceProvider();
@@ -87,7 +80,7 @@ namespace Server
             // InvokeRequired required compares the thread ID of the
             // calling thread to the thread ID of the creating thread.
             // If these threads are different, it returns true.'
-            kerkesa = text.ToLower();
+            var kerkesa = text.ToLower();
             if (txtKerkesaNenshkruar.InvokeRequired)
             {
                 SetTextCallback d = new SetTextCallback(SetText);
@@ -95,7 +88,7 @@ namespace Server
             }
             else
             {
-                kerkesaEnkriptuarKlientit = text;
+                var kerkesaEnkriptuarKlientit = text;
                 txtKerkesaNenshkruar.Text = text;
             }
         }
@@ -125,12 +118,6 @@ namespace Server
             {
                 MessageBox.Show("Certifikata ne indeksin 0 nuk ekziston!");
             }
-
-            RSACryptoServiceProvider privateKeyProvider = (RSACryptoServiceProvider)serverCertificate.PrivateKey;
-            /*(String strPublicParamters = privateKeyProvider.ToXmlString(false);
-            StreamWriter sw = new StreamWriter("C:\\Users\\festi\\CELESIPUBLIKSERVERITRIJAD.xml");
-            sw.Write(strPublicParamters);
-            sw.Close();*/
         }
 
         private void btnVerifiko_Click(object sender, EventArgs e)
@@ -144,7 +131,7 @@ namespace Server
                 sr.Close();
                 try
                 {
-                    //Po ja japim celesin publik per me bo verifikm na vyn
+                    //Pja jepum celesin publik per me bo verifikm na vyn
                     objRsaClient.FromXmlString(strPrivateParameteres);
                 }
                 catch
@@ -179,27 +166,17 @@ namespace Server
             txtKerkesaDekriptuar.Text = dekriptoKerkesen(txtKerkesaNenshkruar.Text.Split('#')[0]);
         }
 
-        //pe marim pergjigjen vareshisht prej kerkess se dekriptuar
-        private string gjejPergjigjen()
-        {
-            switch (dekriptoKerkesen(txtKerkesaNenshkruar.Text.Split('#')[0]))       // NDRYSHIM
-            {
-                case "ipaddress": return "Kerkesa1"; break;     // NDRYSHIM
-                case "hostname": return "Kerkresa2"; break;
-                case "..": return "Kerkesa3"; break;
-                default: return "Default response!";
-            }
-        }
         //pe dergojme pergjigjen qe  e kemi marre pas enkirpitimit
         private void btnDergo_Click(object sender, EventArgs e)
         {
             //dergimi i pergjigjes
             string pergjigja = txtPergjigjaEnkriptuar.Text + "#" +
             Convert.ToBase64String(bytesNenshkrimi);
-            byte[] dergesa = Encoding.ASCII.GetBytes(pergjigja);        // SHTUAR
-            ns.Write(dergesa, 0, dergesa.Length);                       // SHTUAR
+            byte[] dergesa = Encoding.ASCII.GetBytes(pergjigja);
+            ns.Write(dergesa, 0, dergesa.Length);
         }
-        //enkriptimi i pergjigjes se serverti
+
+        //enkriptimi i pergjigjes se serverit
         private void btnEnkripto_Click(object sender, EventArgs e)
         {
             try
@@ -207,9 +184,9 @@ namespace Server
                 OpenFileDialog opf = new OpenFileDialog();
                 if (opf.ShowDialog() == DialogResult.OK)
                 {
-                    string path = opf.FileName;
+                    var path = opf.FileName;
                     StreamReader sr = new StreamReader(path);
-                    string strPrivateParameteres = sr.ReadToEnd();
+                    var strPrivateParameteres = sr.ReadToEnd();
                     sr.Close();
                     try
                     {
@@ -237,11 +214,6 @@ namespace Server
             RSACryptoServiceProvider privateKeyProvider = (RSACryptoServiceProvider)serverCertificate.PrivateKey;
             byte[] bytesData = Convert.FromBase64String(pergjigja);
             bytesNenshkrimi = privateKeyProvider.SignData(bytesData, new SHA1CryptoServiceProvider());
-            //per celes publik
-            /*String strPrivateParamters = privateKeyProvider.ToXmlString(false);
-            StreamWriter sw = new StreamWriter("C://XmlFaturat/ServerPublicKey.xml");
-            sw.Write(strPrivateParamters);
-            sw.Close();*/
         }
 
         private void txtKerkesaNenshkruar_TextChanged(object sender, EventArgs e)
