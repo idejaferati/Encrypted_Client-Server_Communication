@@ -88,7 +88,7 @@
             // 
             // btnCertifikata
             // 
-            this.btnCertifikata.Location = new System.Drawing.Point(203, 261);
+            this.btnCertifikata.Location = new System.Drawing.Point(27, 281);
             this.btnCertifikata.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnCertifikata.Name = "btnCertifikata";
             this.btnCertifikata.Size = new System.Drawing.Size(163, 35);
@@ -99,7 +99,7 @@
             // 
             // btnVerifiko
             // 
-            this.btnVerifiko.Location = new System.Drawing.Point(304, 689);
+            this.btnVerifiko.Location = new System.Drawing.Point(204, 644);
             this.btnVerifiko.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnVerifiko.Name = "btnVerifiko";
             this.btnVerifiko.Size = new System.Drawing.Size(163, 35);
@@ -110,7 +110,7 @@
             // 
             // btnDergo
             // 
-            this.btnDergo.Location = new System.Drawing.Point(304, 351);
+            this.btnDergo.Location = new System.Drawing.Point(551, 281);
             this.btnDergo.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnDergo.Name = "btnDergo";
             this.btnDergo.Size = new System.Drawing.Size(146, 35);
@@ -121,7 +121,7 @@
             // 
             // btnEnkripto
             // 
-            this.btnEnkripto.Location = new System.Drawing.Point(388, 261);
+            this.btnEnkripto.Location = new System.Drawing.Point(197, 281);
             this.btnEnkripto.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnEnkripto.Name = "btnEnkripto";
             this.btnEnkripto.Size = new System.Drawing.Size(164, 35);
@@ -132,7 +132,7 @@
             // 
             // btnDekripto
             // 
-            this.btnDekripto.Location = new System.Drawing.Point(304, 644);
+            this.btnDekripto.Location = new System.Drawing.Point(389, 644);
             this.btnDekripto.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnDekripto.Name = "btnDekripto";
             this.btnDekripto.Size = new System.Drawing.Size(163, 35);
@@ -143,7 +143,7 @@
             // 
             // btnNenshkruaj
             // 
-            this.btnNenshkruaj.Location = new System.Drawing.Point(304, 306);
+            this.btnNenshkruaj.Location = new System.Drawing.Point(388, 281);
             this.btnNenshkruaj.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnNenshkruaj.Name = "btnNenshkruaj";
             this.btnNenshkruaj.Size = new System.Drawing.Size(146, 35);

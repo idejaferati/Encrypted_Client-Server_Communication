@@ -161,27 +161,6 @@ namespace Client
             }
         }
 
-        private void CreateKeys()
-        {
-            try
-            {
-                RSACryptoServiceProvider objRSA = new RSACryptoServiceProvider();
-                string PrivateKey = objRSA.ToXmlString(true);
-                string PublicKey = objRSA.ToXmlString(false);
-                using (StreamWriter sw = new StreamWriter("C:\\Users\\Toni PC\\Desktop\\IDEJA-CERT\\certs\\created\\PrivateKey_test.xml"))
-                {
-                    sw.Write(PrivateKey);
-                }
-                using (StreamWriter sw = new StreamWriter("C:\\Users\\Toni PC\\Desktop\\IDEJA-CERT\\certs\\created\\PublicKey_test.xml"))
-                {
-                    sw.Write(PublicKey);
-                }
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show(ex.Message);
-            }
-        }
 
         private void btnEnkripto_Click(object sender, EventArgs e)
         {

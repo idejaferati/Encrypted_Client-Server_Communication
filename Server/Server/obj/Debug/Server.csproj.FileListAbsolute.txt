@@ -49,3 +49,14 @@ C:\Users\Toni PC\Desktop\IDEJA-CERT\X509\FUNDI OKEJ\Fundit\projekti\Server\Serve
 C:\Users\Toni PC\Desktop\IDEJA-CERT\X509\FUNDI OKEJ\Fundit\projekti\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
 C:\Users\Toni PC\Desktop\IDEJA-CERT\X509\FUNDI OKEJ\Fundit\projekti\Server\Server\obj\Debug\Server.exe
 C:\Users\Toni PC\Desktop\IDEJA-CERT\X509\FUNDI OKEJ\Fundit\projekti\Server\Server\obj\Debug\Server.pdb
+C:\Users\Natyra\Desktop\Encrypted_Client-Server_Communication\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Natyra\Desktop\Encrypted_Client-Server_Communication\Server\Server\bin\Debug\Server.exe
+C:\Users\Natyra\Desktop\Encrypted_Client-Server_Communication\Server\Server\bin\Debug\Server.pdb
+C:\Users\Natyra\Desktop\Encrypted_Client-Server_Communication\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Natyra\Desktop\Encrypted_Client-Server_Communication\Server\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Natyra\Desktop\Encrypted_Client-Server_Communication\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\Natyra\Desktop\Encrypted_Client-Server_Communication\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Natyra\Desktop\Encrypted_Client-Server_Communication\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Natyra\Desktop\Encrypted_Client-Server_Communication\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Natyra\Desktop\Encrypted_Client-Server_Communication\Server\Server\obj\Debug\Server.exe
+C:\Users\Natyra\Desktop\Encrypted_Client-Server_Communication\Server\Server\obj\Debug\Server.pdb

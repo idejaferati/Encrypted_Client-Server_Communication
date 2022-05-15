@@ -46,7 +46,7 @@
             // 
             // btnDekripto
             // 
-            this.btnDekripto.Location = new System.Drawing.Point(282, 258);
+            this.btnDekripto.Location = new System.Drawing.Point(525, 269);
             this.btnDekripto.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnDekripto.Name = "btnDekripto";
             this.btnDekripto.Size = new System.Drawing.Size(194, 35);
@@ -68,7 +68,7 @@
             // 
             // btnVerifiko
             // 
-            this.btnVerifiko.Location = new System.Drawing.Point(282, 303);
+            this.btnVerifiko.Location = new System.Drawing.Point(28, 269);
             this.btnVerifiko.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnVerifiko.Name = "btnVerifiko";
             this.btnVerifiko.Size = new System.Drawing.Size(194, 35);
@@ -79,7 +79,7 @@
             // 
             // btnCertifikata
             // 
-            this.btnCertifikata.Location = new System.Drawing.Point(199, 630);
+            this.btnCertifikata.Location = new System.Drawing.Point(285, 269);
             this.btnCertifikata.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnCertifikata.Name = "btnCertifikata";
             this.btnCertifikata.Size = new System.Drawing.Size(163, 35);
@@ -121,7 +121,7 @@
             // 
             // btnEnkripto
             // 
-            this.btnEnkripto.Location = new System.Drawing.Point(382, 630);
+            this.btnEnkripto.Location = new System.Drawing.Point(18, 630);
             this.btnEnkripto.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnEnkripto.Name = "btnEnkripto";
             this.btnEnkripto.Size = new System.Drawing.Size(163, 35);
@@ -182,7 +182,7 @@
             // 
             // btnNenshkruaj
             // 
-            this.btnNenshkruaj.Location = new System.Drawing.Point(30, 630);
+            this.btnNenshkruaj.Location = new System.Drawing.Point(285, 630);
             this.btnNenshkruaj.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnNenshkruaj.Name = "btnNenshkruaj";
             this.btnNenshkruaj.Size = new System.Drawing.Size(146, 35);
